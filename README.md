@@ -1,7 +1,3 @@
-# Cryptocurrency_App
-Live demo [https://brave-curie-df6a81.netlify.app/] 
-
-
 ## Available Scripts
 
 To download dependency for this project directory, you can run:
@@ -16,4 +12,3 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
-# React_Firebase_CRUD
